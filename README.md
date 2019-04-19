@@ -1,1 +1,3 @@
 # Finding-the-Best-Market-to-Advertise-in-an-E-learning-Product
+
+The goal of this project is to find out the two best markets to advise courses on programming offered by an e-learning company. Most of these courses are on web and mobile development, but there are also others covering many other domains, like data science, game development, etc. To accomplish this task we will first consider the countries where there is a high percentage of new coders, for those countries we will look at how much new coders are willing to spend on learning and finally we will evaluate the right trede-off between percentage of new coders and their availability on spending money for imrpoving their skills in order to find at least two markets to advertise our e-learning product.
